@@ -1,0 +1,11 @@
+content:
+  - name: updates
+    label: Luci Spente Updates
+    type: collection
+    path: updates
+    extension: html
+    format: raw
+    fields:
+      - name: body
+        label: News Content
+        type: rich-text
